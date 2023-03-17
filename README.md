@@ -1,6 +1,6 @@
 # 22_physiology_altitude_IOB
 
-Dataset of "https://academic.oup.com/iob/article/X/X/obad009".
+Dataset of "DOI: 10.1093/iob/obad009".
 
 See Rcode at Supplementary Material 3. 
 

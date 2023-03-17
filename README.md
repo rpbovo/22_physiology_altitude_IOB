@@ -5,7 +5,7 @@ Dataset of "https://academic.oup.com/iob/article/X/X/obad009".
 See Rcode at Supplementary Material 3. 
 
 Files:
-1) RPB_data_alt.csv
-2) microclim_data.csv
-3) coord_altitude_study_sites.csv
-4) code Fig.S3.csv
+1) RPB_data_alt.csv (data analyses)
+2) microclim_data.csv (supplementary analysis with microclim data)
+3) coord_altitude_study_sites.csv (for Fig. 1)
+4) code_Fig.S3.csv (for Fig. S3)
